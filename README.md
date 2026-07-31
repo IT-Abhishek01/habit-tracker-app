@@ -62,7 +62,6 @@ with this:
 ### ⚙️ Settings Screen
 
 ![Settings Screen](screenshots/setting.png)
-## ⚙️ Installation
 
 1. Clone the repository:
 
