@@ -41,20 +41,27 @@ lib/
 
 ---
 
+
+with this:
+
+````markdown
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+### 🏠 Today Screen
 
-Example:
+![Today Screen](screenshots/today.png)
 
-```
-assets/screenshots/home.png
-assets/screenshots/add_habit.png
-assets/screenshots/progress.png
-```
+### 🔍 Explore Screen
 
----
+![Explore Screen](screenshots/explore.png)
 
+### 📊 Stats Screen
+
+![Stats Screen](screenshots/stats.png)
+
+### ⚙️ Settings Screen
+
+![Settings Screen](screenshots/settings.png)
 ## ⚙️ Installation
 
 1. Clone the repository:
